@@ -21,7 +21,7 @@
 
 [![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)](https://github.com/junselee42/badge42)
 
-- projects in progress
+- 🌱 projects in progress
 --------
   - minitalk
   - inception
