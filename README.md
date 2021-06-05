@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 ![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&show_icons=true&theme=tokyonight)
 
-[![junslee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junselee)](https://github.com/anuraghazra/github-readme-stats)
+[![junslee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junselee42)](https://github.com/anuraghazra/github-readme-stats)
 
