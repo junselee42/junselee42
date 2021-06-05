@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ![junselee's github stats](https://github-readme-stats.vercel.app/api?username=junselee42&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff&card_width=11)
 
-![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&show_icons=true&theme=merko)
+![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&show_icons=true&theme=gruvbox)
 
 
 ![junslee's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junselee42&hide=tsql&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
