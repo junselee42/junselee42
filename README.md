@@ -4,6 +4,7 @@
 - 👀 I’m interested in ...
 
 <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=&logoColor=white"/></a>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 - 🌱 I’m currently learning ...
 
 [![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)](https://github.com/junselee42/badge42)
