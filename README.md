@@ -2,6 +2,8 @@
 
 - 👋 Hi, I’m @junselee42
 - 👀 I’m interested in ...
+
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 - 🌱 I’m currently learning ...
 
 [![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)](https://github.com/junselee42/badge42)
