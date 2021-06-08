@@ -9,7 +9,7 @@
 
 ![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&show_icons=true&theme=tokyonight)
 
-🌱 I’m currently learning ...
+🌱 I’m currently ...
 -------
 
 -  42 cursus
