@@ -7,7 +7,7 @@
 🌱 GitHub stats
 --------
 
-![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&show_icons=true&theme=tokyonight)
+![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&theme=tokyonight&show_icons=true)
 
 🌱 I’m currently ...
 -------
