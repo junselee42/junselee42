@@ -13,17 +13,17 @@
 -------
 - wakatime stat
 
-[![junselee의 wakatime stat](https://github-readme-stats.vercel.app/api/wakatime ?username=junselee )]
+![junselee의 wakatime stat](https://github-readme-stats.vercel.app/api/wakatime ?username=junselee )
 
 
 -  42 cursus
 
-[![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?privacyEmail=true)]
+![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?privacyEmail=true)
 
 
 - C piscine 
 
-[![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)]
+![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)
 
 🌱 projects in progress
 --------
