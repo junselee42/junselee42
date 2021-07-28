@@ -13,7 +13,7 @@
 -------
 - wakatime stat
 
-[![junselee의 wakatime stat](https://github-readme-stats.vercel.app/api/wakatime ?username=junselee)](https://github.com/junselee42/github-readme-stats)
+[![junselee의 wakatime stat](https://github-readme-stats.vercel.app/api/wakatime ?username=junselee)]
 
 
 -  42 cursus
@@ -23,7 +23,7 @@
 
 - C piscine 
 
-[![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)](https://github.com/junselee42/badge42)
+[![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)]
 
 🌱 projects in progress
 --------
