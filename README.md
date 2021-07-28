@@ -13,7 +13,7 @@
 -------
 - wakatime stat
 
-[![junselee의 wakatime stat](https://github-readme-stats.vercel.app/api/wakatime ?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![junselee의 wakatime stat](https://github-readme-stats.vercel.app/api/wakatime ?username=willianrod )](https://github.com/junselee42/github-readme-stats)
 
 
 -  42 cursus
