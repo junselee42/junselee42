@@ -18,7 +18,7 @@
 
 -  42 cursus
 
-[![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?privacyEmail=true)](https://github.com/junselee42/badge42)
+[![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?privacyEmail=true)]
 
 
 - C piscine 
