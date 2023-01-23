@@ -9,22 +9,10 @@
 
 ![junselee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junselee42&theme=tokyonight&show_icons=true&count_private=true)
 
-🌱 I’m currently ...
--------
-
--  42 cursus
-
-![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?privacyEmail=true)
-
-
-- C piscine 
-
-![junselee's 42 stats](https://badge42.herokuapp.com/api/stats/junselee?cursus=C%20Piscine)
 
 🌱 projects in progress
 --------
-  - 📋
-  - 📋
+  - 📋 project-d
 
 <!---
 junselee42/junselee42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
